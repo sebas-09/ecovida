@@ -1,0 +1,83 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Start API Gateway",
+      "type": "process",
+      "command": "cmd.exe",
+      "args": ["/c", "cd api-gateway && mvn spring-boot:run"],
+      "problemMatcher": []
+    },
+    {
+      "label": "Start Auth Service",
+      "type": "process",
+      "command": "cmd.exe",
+      "args": ["/c", "cd auth-service && mvn spring-boot:run"],
+      "problemMatcher": []
+    },
+    {
+      "label": "Start Cart Service",
+      "type": "process",
+      "command": "cmd.exe",
+      "args": ["/c", "cd cart-service && mvn spring-boot:run"],
+      "problemMatcher": []
+    },
+    {
+      "label": "Start Category Service",
+      "type": "process",
+      "command": "cmd.exe",
+      "args": ["/c", "cd category-service && mvn spring-boot:run"],
+      "problemMatcher": []
+    },
+    {
+      "label": "Start Notification Service",
+      "type": "process",
+      "command": "cmd.exe",
+      "args": ["/c", "cd notification-service && mvn spring-boot:run"],
+      "problemMatcher": []
+    },
+    {
+      "label": "Start Order Service",
+      "type": "process",
+      "command": "cmd.exe",
+      "args": ["/c", "cd order-service && mvn spring-boot:run"],
+      "problemMatcher": []
+    },
+    {
+      "label": "Start Product Service",
+      "type": "process",
+      "command": "cmd.exe",
+      "args": ["/c", "cd product-service && mvn spring-boot:run"],
+      "problemMatcher": []
+    },
+    {
+      "label": "Start Service Registry",
+      "type": "process",
+      "command": "cmd.exe",
+      "args": ["/c", "cd service-registry && mvn spring-boot:run"],
+      "problemMatcher": []
+    },
+    {
+      "label": "Start User Service",
+      "type": "process",
+      "command": "cmd.exe",
+      "args": ["/c", "cd user-service && mvn spring-boot:run"],
+      "problemMatcher": []
+    },
+    {
+      "label": "Start All Microservices",
+      "type": "process",
+      "dependsOn": [
+        "Start API Gateway",
+        "Start Auth Service",
+        "Start Cart Service",
+        "Start Category Service",
+        "Start Notification Service",
+        "Start Order Service",
+        "Start Product Service",
+        "Start User Service"
+      ],
+      "problemMatcher": []
+    }
+  ]
+}
