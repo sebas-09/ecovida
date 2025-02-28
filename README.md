@@ -21,7 +21,7 @@ El sistema cuenta con una separación clara entre servicios, lo que permite una 
 
 ## 🔍 3. Metodología
 
-El desarrollo de PURELY se basa en una arquitectura de **microservicios**, asegurando modularidad y escalabilidad. La aplicación se compone de múltiples servicios independientes que se comunican mediante REST APIs y Eureka Service Registry.
+El desarrollo de ECOVIDA se basa en una arquitectura de **microservicios**, asegurando modularidad y escalabilidad. La aplicación se compone de múltiples servicios independientes que se comunican mediante REST APIs y Eureka Service Registry.
 
 ### 📌 3.1. Diagrama de Arquitectura
 
