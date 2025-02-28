@@ -105,7 +105,8 @@ Se utiliza **Eureka Service Registry** para el descubrimiento de servicios y **F
 #### 📍 Paso 1: Clonar el repositorio
 
 ```sh
-git clone https://github.com/<tu-usuario>/Fullstack-E-commerce-web-application
+git clone https://github.com/sebas-09/ecovida
+
 ```
 
 #### 📍 Paso 2: Configurar las bases de datos en MongoDB
