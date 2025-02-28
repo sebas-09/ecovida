@@ -145,8 +145,11 @@ Acceder a [`http://localhost:5173/`](http://localhost:5173/).
 ### 📌 3.5. Capturas de Pantalla
 
 ![Imagen de WhatsApp 2025-02-27 a las 08 57 08_78710f3f](https://github.com/user-attachments/assets/4e6c1773-fe4f-4d11-95c7-8141d5541cdd)
+
 ![Imagen de WhatsApp 2025-02-27 a las 08 57 29_a7f0a85d](https://github.com/user-attachments/assets/734fccb1-e94d-4733-88bd-fb1832f532e7)
+
 ![Imagen de WhatsApp 2025-02-27 a las 08 57 41_78efeca0](https://github.com/user-attachments/assets/8b81f89a-d819-4f37-9d61-819c80a0a839)
+
 ![Imagen de WhatsApp 2025-02-27 a las 08 58 21_b0afb767](https://github.com/user-attachments/assets/e01e3864-3197-47a3-954b-d4cab9fffe45)
 
 
@@ -184,4 +187,4 @@ Estas pruebas aseguran que la interfaz de administración sea funcional, intuiti
 
 ---
 
-Este documento proporciona una visión detallada del desarrollo de PURELY, resaltando su arquitectura, metodologías y estrategias de prueba para garantizar un sistema eficiente y seguro.
+
