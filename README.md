@@ -144,9 +144,12 @@ Acceder a [`http://localhost:5173/`](http://localhost:5173/).
 
 ### 📌 3.5. Capturas de Pantalla
 
-![Screenshot 2024-05-07 194247](https://github.com/user-attachments/assets/6f0ea4eb-6757-4955-b64f-18fcca1cee96)
-![Screenshot 2024-05-07 194417](https://github.com/user-attachments/assets/92dbbf00-5606-4530-982a-6cbd1748ee40)
-![Screenshot 2024-05-07 195308](https://github.com/user-attachments/assets/affced2c-3ee5-46d6-96f2-399591b37995)
+![Imagen de WhatsApp 2025-02-27 a las 08 57 08_78710f3f](https://github.com/user-attachments/assets/4e6c1773-fe4f-4d11-95c7-8141d5541cdd)
+![Imagen de WhatsApp 2025-02-27 a las 08 57 29_a7f0a85d](https://github.com/user-attachments/assets/734fccb1-e94d-4733-88bd-fb1832f532e7)
+![Imagen de WhatsApp 2025-02-27 a las 08 57 41_78efeca0](https://github.com/user-attachments/assets/8b81f89a-d819-4f37-9d61-819c80a0a839)
+![Imagen de WhatsApp 2025-02-27 a las 08 58 21_b0afb767](https://github.com/user-attachments/assets/e01e3864-3197-47a3-954b-d4cab9fffe45)
+
+
 
 ---
 
@@ -160,6 +163,7 @@ Se utilizó **SonarQube** para analizar la calidad del código de cada microserv
 - **Complejidad ciclomática**
 - **Vulnerabilidades de seguridad**
 - **Bugs y code smells**
+![Imagen de WhatsApp 2025-02-26 a las 19 15 29_c7d84717](https://github.com/user-attachments/assets/c808ac4c-a85b-4486-8b5f-07c86e271c5b)
 
 Estas pruebas permitieron mejorar la mantenibilidad del código, reducir errores y optimizar el rendimiento del backend.
 
@@ -173,6 +177,8 @@ Para garantizar el correcto funcionamiento del flujo administrativo, se automati
 2. **Creación de una nueva categoría.**
 3. **Creación de un nuevo producto dentro de una categoría.**
 4. **Visualización de órdenes en el panel de administración.**
+
+![image](https://github.com/user-attachments/assets/b1e0de23-57ce-4bd6-81e5-f92e242009d7)
 
 Estas pruebas aseguran que la interfaz de administración sea funcional, intuitiva y libre de errores.
 
